@@ -1,0 +1,22 @@
+16:23:57 **** Incremental Build of configuration Debug for project LLINE_Battery_64p ****
+make -j8 all 
+arm-none-eabi-gcc -o "LLINE_Battery_64p.elf" @"objects.list"   -mcpu=cortex-m3 -T"D:\Git\BMS\Frimware\LLINE_Battery_64p\STM32F103RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LLINE_Battery_64p.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: LLINE_Battery_64p.elf
+ 
+arm-none-eabi-size   LLINE_Battery_64p.elf 
+arm-none-eabi-objdump -h -S  LLINE_Battery_64p.elf  > "LLINE_Battery_64p.list"
+arm-none-eabi-objcopy  -O ihex  LLINE_Battery_64p.elf  "LLINE_Battery_64p.hex"
+   text	   data	    bss	    dec	    hex	filename
+  56568	    156	   6944	  63668	   f8b4	LLINE_Battery_64p.elf
+arm-none-eabi-objcopy  -O binary  LLINE_Battery_64p.elf  "LLINE_Battery_64p.bin"
+Finished building: default.size.stdout
+ 
+Finished building: LLINE_Battery_64p.bin
+Finished building: LLINE_Battery_64p.hex
+ 
+ 
+Finished building: LLINE_Battery_64p.list
+ 
+
+16:23:58 Build Finished. 0 errors, 0 warnings. (took 722ms)
+

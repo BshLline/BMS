@@ -1,0 +1,11 @@
+../Core/Src/EKF.c:80:6:EKF_Algorithm_Main	152	static
+../Core/Src/EKF.c:246:6:EKF_Algorithm_Init	8	static
+../Core/Src/EKF.c:268:8:EKF_OCV_DIV_5Poly	16	static
+../Core/Src/EKF.c:288:8:EKF_OCV_High_5Poly	120	static
+../Core/Src/EKF.c:320:8:EKF_OCV_Mid_5Poly	120	static
+../Core/Src/EKF.c:352:8:EKF_OCV_Low_5Poly	120	static
+../Core/Src/EKF.c:384:8:EKF_OCV_Dot_DIV_5Poly	16	static
+../Core/Src/EKF.c:404:8:EKF_OCV_Dot_High_5Poly	120	static
+../Core/Src/EKF.c:436:8:EKF_OCV_Dot_Mid_5Poly	120	static
+../Core/Src/EKF.c:468:8:EKF_OCV_Dot_Low_5Poly	120	static
+../Core/Src/EKF.c:501:6:SocCalculation	56	static

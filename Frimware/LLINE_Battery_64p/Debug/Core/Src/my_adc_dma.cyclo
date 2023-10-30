@@ -1,0 +1,9 @@
+../Core/Src/my_adc_dma.c:12:6:Setup_ADC_default	3
+../Core/Src/my_adc_dma.c:50:6:Adc_dma_start	1
+../Core/Src/my_adc_dma.c:55:6:Adc_dma_stop	1
+../Core/Src/my_adc_dma.c:60:6:Read_DMA_Current_n_Temperature	7
+../Core/Src/my_adc_dma.c:131:9:Calc_PCB_current	1
+../Core/Src/my_adc_dma.c:161:9:Calc_CT_sensor	1
+../Core/Src/my_adc_dma.c:175:9:Adc_to_temperature	3
+../Core/Src/my_adc_dma.c:214:6:quickSort	7
+../Core/Src/my_adc_dma.c:240:6:Print_adc_value	1

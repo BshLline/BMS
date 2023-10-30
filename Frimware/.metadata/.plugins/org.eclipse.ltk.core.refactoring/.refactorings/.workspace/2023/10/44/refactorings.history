@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;LLINE_Battery_64p/Core/Inc&apos;" deleteContents="false" description="Delete resource &apos;LLINE_Battery_64p/Core/Inc&apos;" element1="/LLINE_Battery_64p/Core/Inc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1698650361074"/>
+</session>

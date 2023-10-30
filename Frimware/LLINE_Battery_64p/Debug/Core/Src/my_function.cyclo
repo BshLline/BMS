@@ -1,0 +1,17 @@
+../Core/Src/my_function.c:14:6:Setup_default	1
+../Core/Src/my_function.c:42:6:Get_Switch_info	1
+../Core/Src/my_function.c:68:6:Charge_voltage_open	1
+../Core/Src/my_function.c:73:6:Discharge_voltage_open	1
+../Core/Src/my_function.c:78:6:Charge_Discharge_control	4
+../Core/Src/my_function.c:100:6:Start_Relay_pwm	3
+../Core/Src/my_function.c:131:6:PWM_Toggle_Relay	10
+../Core/Src/my_function.c:172:6:Relay_connect	1
+../Core/Src/my_function.c:183:6:Check_output_pwm	4
+../Core/Src/my_function.c:192:6:Fan_pwm_control	4
+../Core/Src/my_function.c:208:6:Check_bms_error	8
+../Core/Src/my_function.c:244:6:Check_Relay_Contorl	4
+../Core/Src/my_function.c:268:19:Write_eeprom	1
+../Core/Src/my_function.c:275:19:Read_eeprom	1
+../Core/Src/my_function.c:282:6:calc_boot_time	3
+../Core/Src/my_function.c:302:6:flash_read	2
+../Core/Src/my_function.c:329:6:flash_write	7

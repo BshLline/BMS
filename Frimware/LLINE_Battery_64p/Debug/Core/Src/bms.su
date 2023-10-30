@@ -1,0 +1,2 @@
+../Core/Src/bms.c:11:6:BMS_Cell_Balancing	48	static
+../Core/Src/bms.c:112:6:Broadcast_data	88	static

@@ -1,0 +1,11 @@
+../Core/Src/main.c:67:1:__io_putchar	1
+../Core/Src/main.c:73:6:check_smps_charge	5
+../Core/Src/main.c:109:5:main	8
+../Core/Src/main.c:286:6:SystemClock_Config	4
+../Core/Src/main.c:334:13:MX_NVIC_Init	1
+../Core/Src/main.c:352:6:HAL_UART_RxCpltCallback	10
+../Core/Src/main.c:425:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+../Core/Src/main.c:439:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:460:6:HAL_CAN_ErrorCallback	1
+../Core/Src/main.c:466:6:HAL_PWR_PVDCallback	1
+../Core/Src/main.c:477:6:Error_Handler	1
